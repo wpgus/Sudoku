@@ -1,3 +1,0 @@
-# Sudoku
-Sudoku
-asdasd
