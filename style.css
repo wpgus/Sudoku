@@ -8,7 +8,6 @@
 .board {
     width: 470px;
     height: 470px;
-    margin-left: 15%;
 }
 
 .block {
@@ -40,7 +39,6 @@ td {
     position: relative;
     width: 120px;
     height: 60px;
-    margin-left: 15%;
 }
 
 .numbers {
@@ -70,5 +68,5 @@ td {
 
 .time {
     font-size: 30px;
-    margin-left: 250px;
+    margin-left: 200px;
 }
